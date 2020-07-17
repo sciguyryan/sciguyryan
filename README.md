@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi. I’m Ryan. I spend a lot of time working on hobby projects and I'm currently in the process of learning the Rust programming language.
 
 <!--
 **sciguyryan/sciguyryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
